@@ -8,9 +8,9 @@ The code that appeared is a implementation of a Library Management System. It al
 
 GROUP 11 (BS DATA SCIENCE 2 SEMESTER)
 
-1.SYED YASIR SHAHBAZ
+1.SYED GHULAM MOHI-U-DIN
 
-2.SYED GHULAM MOHI-U-DIN
+2.SYED YASIR SHAHBAZ
 
 3.JUNAID KHAN
 
